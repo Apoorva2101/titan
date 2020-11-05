@@ -1,0 +1,22 @@
+body{
+    background-image: url("pink.gif");
+}
+
+.block1{
+    color: aliceblue;
+    font-family: 'Lobster', cursive;
+    padding: 30px;
+    text-align: center;
+    width: 450px;
+    margin: 0 auto;
+}
+.m{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 450px;
+    margin: 0 auto;
+}
